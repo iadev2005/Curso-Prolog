@@ -1,0 +1,3 @@
+/* Backtracking automático es el segundo mecanismo de inferencia de PROLOG y nos permite de una forma anónima (que nosotros no podamos ver, e incluso que no la hayamos implementado) buscar más soluciones a la pregunta planteada. Backtracking es volver atrá una vez encontrada una solución para buscar más, se dice que es automático porque PROLOG lo tiene implementado en su nucleo. PROLOG seguira buscando soluciones independientemente del resultado (true o false), va instanciando la variable según los objetos que cumplieron con la regla, así hasta que ya no tenga más iteraciones posibles */
+
+/* La clase de hoy era meramente teórica para entender la lógica detrás de la recursividad en PROLOG */
